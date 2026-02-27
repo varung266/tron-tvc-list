@@ -1,21 +1,21 @@
 {
   "address": "TMArXFfq7Bz2Y77jTmT2rejmmyX1eee7Uj",
-  "symbol": "UЅDТ",
-  "name": "Tеthеr",
+  "symbol": "U\u0405D\u0422",
+  "name": "T\u0435th\u0435r",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/varung266/tron-tvc-list/submit-token-tmarx/logos/TMArXFfq7Bz2Y77jTmT2rejmmyX1eee7Uj.png",
+  "logoURI": "https://raw.githubusercontent.com/varung266/trustwallet-assets-vg/add-tron-trc20-tmarx-asset/blockchains/tron/assets/TMArXFfq7Bz2Y77jTmT2rejmmyX1eee7Uj/logo.png",
   "homepage": "https://github.com/varung266",
   "existingMarkets": [
     {
       "source": "SunSwap V2",
       "pairs": [
-        "UЅDТ/USDT"
+        "U\u0405D\u0422/USDT"
       ]
     },
     {
       "source": "SunSwap V3",
       "pairs": [
-        "UЅDТ/USDT"
+        "U\u0405D\u0422/USDT"
       ]
     }
   ]
